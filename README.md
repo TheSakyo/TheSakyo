@@ -83,14 +83,14 @@ I regularly work on projects combining application development, backend services
 
 **Web & Backend**
 
-* APIs REST
-* Architecture backend
+* REST APIs
+* Backend architecture
 * Flask
 * Node.js
 * Spring Boot
 * Symfony
-* Applications web dynamiques
-* Développement orienté services / microservices
+* Dynamic web applications
+* Service-oriented / microservices development
 
 **Infrastructure & systems**
 
