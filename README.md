@@ -10,7 +10,7 @@
 
 ### 🧠 À propos de moi
 
-Développeur orienté Full-Stack / Backend, avec un fort intérêt pour les systèmes, l’architecture logicielle, l’infrastructure et le développement de jeux vidéo. J’aime comprendre en profondeur le fonctionnement des outils que j’utilise et concevoir des solutions propres, maintenables et efficaces.
+Développeur orienté Full-Stack / Backend, avec un fort intérêt pour les systèmes, l’architecture logicielle, l’infrastructure, le développement applicatif et le développement de jeux vidéo. J’aime comprendre en profondeur le fonctionnement des outils que j’utilise et concevoir des solutions propres, maintenables et efficaces.
 
 Je travaille régulièrement sur des projets mêlant développement applicatif, services backend, environnements auto-hébergés et projets de jeu vidéo, avec une attention particulière portée à la robustesse, la lisibilité du code et l’évolution dans le temps.
 
@@ -64,7 +64,7 @@ Je travaille régulièrement sur des projets mêlant développement applicatif, 
 
 ### 🧠 About me
 
-Full-stack / backend-oriented developer with a strong interest in systems, software architecture, infrastructure, and game development. I enjoy deeply understanding the tools I use and designing clean, maintainable, and efficient solutions.
+Full-stack / backend-oriented developer with a strong interest in systems, software architecture, infrastructure, application development, and game development. I enjoy deeply understanding the tools I use and designing clean, maintainable, and efficient solutions.
 
 I regularly work on projects combining application development, backend services, self-hosted environments, and game development projects, with a strong focus on robustness, code readability, and long-term evolution.
 
