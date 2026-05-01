@@ -26,7 +26,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack (Stacks Techniques)
+### 📊 Stack Overview (Résumé Technique)
 
 <br/>
 
