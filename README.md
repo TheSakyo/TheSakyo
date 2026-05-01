@@ -10,7 +10,7 @@
   
 ### 🔍 En savoir plus / Learn more
 
-| 🇫🇷 Français | 🇬🇧 English |
+| Français | English |
 | :---: | :---: |
 | [Consulter mon profil](docs/README.fr.md) | [View my profile](docs/README.en.md) |
 
