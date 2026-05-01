@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Sacha (TheSakyo) / Hi, I’m Sacha (TheSakyo)
+# 👋 Salut, moi c’est Sacha / Hi, I’m Sacha 
 
 > **Développeur Full-Stack** passionné par le code, les systèmes et l’amélioration continue.
 > </br></br>
