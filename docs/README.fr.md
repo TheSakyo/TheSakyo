@@ -1,6 +1,8 @@
 ### 🧠 À propos de moi
 
-> Développeur orienté **Full-stack / Backend** avec un fort intérêt pour les **systèmes, l'architecture logicielle, l'infrastructure, le développement d'applications et de jeux vidéo**. J'aime comprendre en profondeur les outils que j'utilise et concevoir des solutions propres, maintenables et efficaces.
+> Développeur orienté **Full-stack / Backend** avec un fort intérêt pour les **systèmes, l'architecture logicielle, l'infrastructure, le développement d'applications et de jeux vidéo**.
+> 
+> J'aime comprendre en profondeur les outils que j'utilise et concevoir des solutions propres, maintenables et efficaces.
 >
 > Je travaille régulièrement sur des projets combinant développement d'applications, services backend, environnements auto-hébergés et création de jeux, avec un accent particulier sur la **robustesse, la lisibilité du code et l'évolution à long terme**.
 
