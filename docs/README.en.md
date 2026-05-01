@@ -1,6 +1,8 @@
 ### 🧠 About me
 
-> Full-stack / backend-oriented developer with a strong interest in **systems, software architecture, infrastructure, application development, and game development**. I enjoy deeply understanding the tools I use and designing clean, maintainable, and efficient solutions.
+> Full-stack / backend-oriented developer with a strong interest in **systems, software architecture, infrastructure, application development, and game development**. 
+>
+> I enjoy deeply understanding the tools I use and designing clean, maintainable, and efficient solutions.
 >
 > I regularly work on projects combining application development, backend services, self-hosted environments, and game development projects, with a strong focus on **robustness, code readability, and long-term evolution**.
 
