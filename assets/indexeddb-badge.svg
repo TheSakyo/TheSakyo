@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="82" height="20" viewBox="0 0 82 20" role="img" aria-label="IndexedDB">
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="20" viewBox="0 0 85 20" role="img" aria-label="IndexedDB">
     <title>IndexedDB</title>
 
     <linearGradient id="s" x2="0" y2="100%">
@@ -6,8 +6,8 @@
         <stop offset="1" stop-opacity=".1"></stop>
     </linearGradient>
 
-    <rect width="82" height="20" rx="3" fill="#007ec6"></rect>
-    <rect width="82" height="20" rx="3" fill="url(#s)"></rect>
+    <rect width="85" height="20" rx="3" fill="#007ec6"/>
+    <rect width="85" height="20" rx="3" fill="url(#s)"/>
 
     <g transform="translate(5 5)" fill="none" stroke="#fff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
         <rect x="0" y="0" width="10" height="10" rx="1.2"></rect>
