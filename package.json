@@ -1,0 +1,11 @@
+{
+  "name": "thesakyo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "badges": "node scripts/generate-badges.mjs"
+  },
+  "devDependencies": {
+    "simple-icons": "^15.7.0"
+  }
+}
