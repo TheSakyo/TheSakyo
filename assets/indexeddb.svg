@@ -1,15 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-    <g fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-        <!-- Browser -->
-        <rect x="2.5" y="3" width="19" height="18" rx="2"></rect>
-        <line x1="2.5" y1="7" x2="21.5" y2="7"></line>
-        <circle cx="5" cy="5" r="0.4" fill="#fff" stroke="none"></circle>
-        <circle cx="7" cy="5" r="0.4" fill="#fff" stroke="none"></circle>
-        <circle cx="9" cy="5" r="0.4" fill="#fff" stroke="none"></circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="20" role="img" aria-label="IndexedDB">
+  <title>IndexedDB</title>
 
-        <!-- Database -->
-        <ellipse cx="12" cy="12" rx="4" ry="1.4"></ellipse>
-        <path d="M8 12v4c0 .8 1.8 1.4 4 1.4s4-.6 4-1.4v-4"></path>
-        <path d="M8 14c0 .8 1.8 1.4 4 1.4s4-.6 4-1.4"></path>
-    </g>
+  <!-- Badge background -->
+  <rect width="108" height="20" rx="3" fill="#0066CC"></rect>
+
+  <!-- Browser -->
+  <g transform="translate(6 4)" fill="none" stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="12" height="12" rx="1.5"></rect>
+    <line x1="0" y1="3" x2="12" y2="3"></line>
+    <circle cx="2" cy="1.5" r="0.4" fill="#fff" stroke="none"></circle>
+    <circle cx="4" cy="1.5" r="0.4" fill="#fff" stroke="none"></circle>
+    <circle cx="6" cy="1.5" r="0.4" fill="#fff" stroke="none"></circle>
+
+    <!-- Database -->
+    <ellipse cx="6" cy="7" rx="2.5" ry="0.8" fill="#fff" stroke="none"></ellipse>
+    <path d="M3.5 7v2.5c0 .5 1.1.9 2.5.9s2.5-.4 2.5-.9V7" fill="#fff" stroke="none"></path>
+  </g>
+
+  <!-- Text -->
+  <text x="24" y="14" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700">
+      IndexedDB
+  </text>
 </svg>
