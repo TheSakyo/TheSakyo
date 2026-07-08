@@ -139,27 +139,27 @@ const badges = [
  * Overrides labels whose visual width differs from a simple character ratio.
  */
 const TEXT_WIDTHS = Object.freeze({
-  JavaScript: 59,      // <- Calibrated text width for the JavaScript badge
-  TypeScript: 64,      // <- Calibrated text width for the TypeScript badge
-  Python: 42,          // <- Calibrated text width for the Python badge
-  PHP: 24,             // <- Calibrated text width for the PHP badge
-  Java: 28,            // <- Calibrated text width for the Java badge
-  'C#': 16,            // <- Calibrated text width for the C# badge
-  Go: 18,              // <- Calibrated text width for the Go badge
-  'Node.js': 45,       // <- Calibrated text width for the Node.js badge
-  Flask: 31,           // <- Calibrated text width for the Flask badge
-  'Spring Boot': 66,   // <- Calibrated text width for the Spring Boot badge
-  Symfony: 51,         // <- Calibrated text width for the Symfony badge
-  'RESTful APIs': 70,  // <- Calibrated text width for the RESTful APIs badge
-  Docker: 42,          // <- Calibrated text width for the Docker badge
-  Linux: 34,           // <- Calibrated text width for the Linux badge
-  Traefik: 42,         // <- Calibrated text width for the Traefik badge
-  Cloudflare: 64,      // <- Calibrated text width for the Cloudflare badge
-  MySQL: 38,           // <- Calibrated text width for the MySQL badge
-  NoSQL: 41,           // <- Calibrated text width for the NoSQL badge
-  PostgreSQL: 70,      // <- Calibrated text width for the PostgreSQL badge
-  SQLite: 38,          // <- Calibrated text width for the SQLite badge
-  IndexedDB: 60        // <- Calibrated text width for the IndexedDB badge
+  'JavaScript': 59,   // <- Calibrated text width for the JavaScript badge
+  'TypeScript': 58,   // <- Calibrated text width for the TypeScript badge
+  'Python': 40,       // <- Calibrated text width for the Python badge
+  'PHP': 24,          // <- Calibrated text width for the PHP badge
+  'Java': 28,         // <- Calibrated text width for the Java badge
+  'C#': 16,           // <- Calibrated text width for the C# badge
+  'Go': 18,           // <- Calibrated text width for the Go badge
+  'Node.js': 45,      // <- Calibrated text width for the Node.js badge
+  'Flask': 31,        // <- Calibrated text width for the Flask badge
+  'Spring Boot': 64,  // <- Calibrated text width for the Spring Boot badge
+  'Symfony': 51,      // <- Calibrated text width for the Symfony badge
+  'RESTful APIs': 70, // <- Calibrated text width for the RESTful APIs badge
+  'Docker': 40,       // <- Calibrated text width for the Docker badge
+  'Linux': 32,        // <- Calibrated text width for the Linux badge
+  'Traefik': 40,      // <- Calibrated text width for the Traefik badge
+  'Cloudflare': 58,   // <- Calibrated text width for the Cloudflare badge
+  'MySQL': 38,        // <- Calibrated text width for the MySQL badge
+  'NoSQL': 37,        // <- Calibrated text width for the NoSQL badge
+  'PostgreSQL': 64,   // <- Calibrated text width for the PostgreSQL badge
+  'SQLite': 38,       // <- Calibrated text width for the SQLite badge
+  'IndexedDB': 60     // <- Calibrated text width for the IndexedDB badge
 });
 
 /**
