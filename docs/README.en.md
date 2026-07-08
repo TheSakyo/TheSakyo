@@ -41,8 +41,10 @@
 **Databases**
 
 * 🐬 **MySQL / MariaDB**
+* 🍃 **NoSQL**
 * 🐘 **PostgreSQL**
 * 💾 **SQLite**
+* 🌐 **IndexedDB**
 
 ---
 
