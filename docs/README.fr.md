@@ -41,9 +41,10 @@
 **Bases de données**
 
 * 🐬 **MySQL / MariaDB**
+* 🍃 **NoSQL**
 * 🐘 **PostgreSQL**
 * 💾 **SQLite**
-
+* 🌐 **IndexedDB**
 ---
 
 ### 🎯 Philosophie
