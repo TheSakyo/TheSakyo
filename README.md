@@ -29,33 +29,33 @@
 ### 📊 Stack Overview / Résumé Technique
 
 - ***Langages / Languages*** ➜
-  <img src="./assets/badges/javascript.svg" alt="JavaScript" style="vertical-align: middle;" />
-  <img src="./assets/badges/typescript.svg" alt="TypeScript" style="vertical-align: middle;" />
-  <img src="./assets/badges/python.svg" alt="Python" style="vertical-align: middle;" />
-  <img src="./assets/badges/php.svg" alt="PHP" style="vertical-align: middle;" />
-  <img src="./assets/badges/java.svg" alt="Java" style="vertical-align: middle;" />
-  <img src="./assets/badges/csharp.svg" alt="C#" style="vertical-align: middle;" />
-  <img src="./assets/badges/go.svg" alt="Go" style="vertical-align: middle;" />
+  <img src="./assets/badges/javascript.svg" alt="JavaScript" align="absmiddle" />
+  <img src="./assets/badges/typescript.svg" alt="TypeScript" align="absmiddle" />
+  <img src="./assets/badges/python.svg" alt="Python" align="absmiddle" />
+  <img src="./assets/badges/php.svg" alt="PHP" align="absmiddle" />
+  <img src="./assets/badges/java.svg" alt="Java" align="absmiddle" />
+  <img src="./assets/badges/csharp.svg" alt="C#" align="absmiddle" />
+  <img src="./assets/badges/go.svg" alt="Go" align="absmiddle" />
 
 - ***Web & Backend*** ➜
-  <img src="./assets/badges/node-js.svg" alt="Node.js" style="vertical-align: middle;" />
-  <img src="./assets/badges/flask.svg" alt="Flask" style="vertical-align: middle;" />
-  <img src="./assets/badges/spring-boot.svg" alt="Spring Boot" style="vertical-align: middle;" />
-  <img src="./assets/badges/symfony.svg" alt="Symfony" style="vertical-align: middle;" />
-  <img src="./assets/badges/restful-apis.svg" alt="RESTful APIs" style="vertical-align: middle;" />
+  <img src="./assets/badges/node-js.svg" alt="Node.js" align="absmiddle" />
+  <img src="./assets/badges/flask.svg" alt="Flask" align="absmiddle" />
+  <img src="./assets/badges/spring-boot.svg" alt="Spring Boot" align="absmiddle" />
+  <img src="./assets/badges/symfony.svg" alt="Symfony" align="absmiddle" />
+  <img src="./assets/badges/restful-apis.svg" alt="RESTful APIs" align="absmiddle" />
 
 - ***Infrastructure & Systèmes / Systems*** ➜
-  <img src="./assets/badges/docker.svg" alt="Docker" style="vertical-align: middle;" />
-  <img src="./assets/badges/linux.svg" alt="Linux" style="vertical-align: middle;" />
-  <img src="./assets/badges/traefik.svg" alt="Traefik" style="vertical-align: middle;" />
-  <img src="./assets/badges/cloudflare.svg" alt="Cloudflare" style="vertical-align: middle;" />
+  <img src="./assets/badges/docker.svg" alt="Docker" align="absmiddle" />
+  <img src="./assets/badges/linux.svg" alt="Linux" align="absmiddle" />
+  <img src="./assets/badges/traefik.svg" alt="Traefik" align="absmiddle" />
+  <img src="./assets/badges/cloudflare.svg" alt="Cloudflare" align="absmiddle" />
 
 - ***Bases de données / Databases*** ➜
-  <img src="./assets/badges/mysql.svg" alt="MySQL" style="vertical-align: middle;" />
-  <img src="./assets/badges/nosql.svg" alt="NoSQL" style="vertical-align: middle;" />
-  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL" style="vertical-align: middle;" />
-  <img src="./assets/badges/sqlite.svg" alt="SQLite" style="vertical-align: middle;" />
-  <img src="./assets/badges/indexeddb.svg" alt="IndexedDB" style="vertical-align: middle;" />
+  <img src="./assets/badges/mysql.svg" alt="MySQL" align="absmiddle" />
+  <img src="./assets/badges/nosql.svg" alt="NoSQL" align="absmiddle" />
+  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL" align="absmiddle" />
+  <img src="./assets/badges/sqlite.svg" alt="SQLite" align="absmiddle" />
+  <img src="./assets/badges/indexeddb.svg" alt="IndexedDB" align="absmiddle" />
 <p align="left"><sub>. . . . . . . .</sub></p>
 <br/>
 

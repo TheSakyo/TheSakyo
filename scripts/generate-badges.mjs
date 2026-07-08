@@ -37,6 +37,9 @@ const RADIUS = 3;
 // Sets the text size.
 const FONT_SIZE = 11;
 
+// Vertically centers the text inside the badge.
+const TEXT_Y = HEIGHT / 2;
+
 // Sets the icon size.
 const ICON_SIZE = 10;
 
@@ -334,7 +337,7 @@ function renderBadge(badge) {
     <rect width="${width}" height="${HEIGHT}" rx="${RADIUS}" fill="${badge.color}"/>
     <rect width="${width}" height="${HEIGHT}" rx="${RADIUS}" fill="url(#${gradientId})"/>
     ${icon}
-    <text x="${textX}" y="14" fill="${badge.textColor || '#fff'}" font-family="${FONT}" font-size="${FONT_SIZE}">${esc(badge.label)}</text>
+    <text x="${textX}" y="${TEXT_Y}" fill="${badge.textColor || '#fff'}" font-family="${FONT}" font-size="${FONT_SIZE}" dominant-baseline="middle">${esc(badge.label)}</text>
   </svg>`;
 }
 
@@ -360,7 +363,7 @@ for(const badge of badges) {
   await fs.writeFile(path.join(OUT_DIR, file), renderBadge(badge), 'utf8');
   
   // Adds the matching Markdown line.
-  markdown.push(`![${badge.label}](./assets/badges/${file})`);
+  markdown.push(`<img src="./assets/badges/${file}" alt="${badge.label}" align="absmiddle" />`);
 }
 
 // Prints the Markdown lines to copy into the README.
