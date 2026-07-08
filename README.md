@@ -42,7 +42,7 @@
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
   ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-  ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+  ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-85EA2D?style=flat-square&logo=swagger&logoColor=444444)
 
 - ***Infrastructure & Systèmes / Systems*** ➜
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
