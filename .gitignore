@@ -1,1 +1,44 @@
+# -----------------------------------------------------------------------------
+# Dependencies
+# -----------------------------------------------------------------------------
+
+# Installed Node.js packages are restored from package-lock.json.
 node_modules/
+
+# -----------------------------------------------------------------------------
+# Logs and debug output
+# -----------------------------------------------------------------------------
+
+# Package manager and runtime logs.
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# -----------------------------------------------------------------------------
+# Local environment
+# -----------------------------------------------------------------------------
+
+# Machine-specific environment variables must stay out of Git.
+.env
+.env.*
+!.env.example
+
+# -----------------------------------------------------------------------------
+# OS and editor files
+# -----------------------------------------------------------------------------
+
+# Windows, macOS, and editor metadata.
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# -----------------------------------------------------------------------------
+# Temporary files
+# -----------------------------------------------------------------------------
+
+# Local scratch files created by tools or manual tests.
+*.tmp
+*.temp
